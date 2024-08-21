@@ -1,7 +1,7 @@
 name: Bing Wallpaper
 on:
   schedule:
-    # 定时执行, runs at 8:45,16:45 UTC every day
+    # 定时执行, runs at 8:45,16:45 UTC every day1
     - cron: '45 8,16 * * *'
 
 jobs:
